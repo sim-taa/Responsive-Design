@@ -83,11 +83,6 @@ header {
     justify-content: center;
 }
 
-img {
-    max-width: 10%;
-    height: auto;
-}
-
 .top-content {
     display: flex;
     flex-wrap: wrap;
