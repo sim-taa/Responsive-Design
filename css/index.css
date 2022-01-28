@@ -75,6 +75,19 @@ section, footer{
 
 /*Top Section Styles*/
 
+header {
+    background-color: whitesmoke;
+    padding: 20px;
+    margin-bottom: 15px;
+    display: flexbox;
+    justify-content: center;
+}
+
+img {
+    max-width: 10%;
+    height: auto;
+}
+
 .top-content {
     display: flex;
     flex-wrap: wrap;
@@ -114,6 +127,95 @@ section, footer{
     justify-content: center;
 }
 
+.middle-content .boxes .tealbox {
+    background: teal;
+    margin: 4% 0;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.middle-content .boxes .goldbox {
+    background: gold;
+    margin: 4% 0;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.middle-content .boxes .cadetbluebox {
+    background: cadetblue;
+    margin: 4% 0;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.middle-content .boxes .coralbox{
+    background: coral;
+    margin: 4% 0;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.middle-content .boxes .crimsonbox{
+    background: crimson;
+    margin: 4% 0;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.middle-content .boxes .forestgreenbox{
+    background: forestgreen;
+    margin: 4% 0;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.middle-content .boxes .darkorchidbox{
+    background: darkorchid;
+    margin: 4% 0;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.middle-content .boxes .hotpinkbox{
+    background: hotpink;
+    margin: 4% 0;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.middle-content .boxes .indigobox{
+    background: indigo;
+    margin: 4% 0;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.middle-content .boxes .dodgerbluebox{
+    background: dodgerblue;
+    margin: 4% 0;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 /*Bottom Section Styles*/
 .bottom-content {
     display: flex;
