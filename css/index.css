@@ -76,13 +76,31 @@ section, footer{
 /*Top Section Styles*/
 
 header {
-    background-color: whitesmoke;
-    padding: 20px;
+    width: 80%;
+    margin: 0 auto;
     margin-bottom: 15px;
-    display: flexbox;
-    justify-content: center;
 }
 
+a {
+  color: black;
+  text-decoration: none;
+}
+nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+img.logo {
+    width: 20%;
+} 
+
+.links {
+    width: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
 .top-content {
     display: flex;
     flex-wrap: wrap;
