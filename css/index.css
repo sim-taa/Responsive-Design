@@ -85,11 +85,13 @@ section, footer{
     width: 40%;
     margin: 4% 0;
 
-    .row{
+    .text-container{
         flex-wrap: wrap;
     }
-
-    .row img{
+    .boxes{
+        flex-wrap: wrap;
+    }
+    .img{
         width: 40%;
         margin: 4% 0;
     }
