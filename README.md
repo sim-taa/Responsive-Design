@@ -9,11 +9,11 @@ Sprint Challenges must pass reviews before students can move on to new material.
 
 ## Instructions
 
-## Commits
+### Commits
 
 Commit your code regularly and meaningfully. This helps both you (in case you ever need to return to old code for any number of reasons)
 
-## Description
+### Description
 
 In this challenge, you build a missing header (navigation and image) on the home page, update some CSS styling on the home page, and create an additional page (About) which will link from the navigation you created. You will also need to make both pages responsive for 500px. 
 
@@ -27,7 +27,7 @@ In meeting the minimum viable product (MVP) specifications listed below, your we
 
 [Click here for about page mobile example](https://github.com/bloominstituteoftechnology/web-Sprint-Challenge-User-Interface-Responsive-Design/blob/janLaunch/design-files/about-mobile.png)
 
-## Project Set Up
+### Project Set Up
 
 - [ ] Create a forked copy of this project.
 - [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
@@ -40,7 +40,7 @@ Follow these steps for completing your project.
 - [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
 
 
-## Minimum Viable Product
+### Minimum Viable Product
 
 Your finished project must include all of the following requirements:
 
