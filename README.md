@@ -1,4 +1,4 @@
-#User Interface and Responsive Design - Multi-Page Website Sprint Challenge
+# User Interface and Responsive Design - Multi-Page Website Sprint Challenge
 
 At BloomTech, teachers who are working web developers design Sprint Challenges to put students through realistic on-the-job scenarios, solving problems by applying the material covered in the curriculum for this unit: user interface and your command of the concepts and techniques in semantic HTML, CSS fundamentals, CSS flexbox module, and git.
 
